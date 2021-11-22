@@ -106,7 +106,7 @@ export default function SignUp() {
       {flag ? (
         <Alert status="success" mt="20px">
           <AlertIcon />
-          注册成功
+          登录成功
         </Alert>
       ) : null}
     </>
